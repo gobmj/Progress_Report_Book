@@ -1,3 +1,5 @@
+##About
+
 A progress report book on an automated attendance system would contain information on the development and implementation of an automated system for tracking attendance in a particular setting, such as a school or workplace.
 
 The report would likely include a description of the system's design and functionality, as well as information on its performance during the reporting period. This might include statistics on attendance tracking accuracy, system uptime and downtime, and any issues or challenges encountered during implementation.
