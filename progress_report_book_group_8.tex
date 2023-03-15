@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage[document]{ragged2e}
 \usepackage{titlesec}
+\usepackage{hyperref}
 
 \titleformat{\chapter}[display]
 {\normalfont\bfseries}{}{0pt}{\Huge}
@@ -77,11 +78,28 @@
     \setcounter{page}{1}
     	
     \paragraph{}
-    There are several distinct phenomena which can be used to measure mass. Although some theorists have speculated that some of these phenomena could be \textbf{independent of each other}, current experiments have found no difference in results regardless of how it is measured:
+    \section{Framed the abstract}
+    In this week, we have framed the abstract of the project.  
+    \section{Basic working}
+    Develop a real-time system which utilizes
+    the knowledge and concepts revolving around facial
+    recognition using Artificial Intelligence to mark students’
+    attendance. A model will be trained in order to recognize a
+    batch of students during its training phase. In the real time
+    testing environment, it will be able to recognize these
+    students uniquely by their facial features, which will be linked
+    to their personal student information in a database upon
+    which the attendance status will be reflected. \\
     
-    - Inertial mass measures an object's resistance to being accelerated by a force (represented by the relationship F = ma).
-    - Active gravitational mass measures the gravitational force exerted by an object.
-    - Passive gravitational mass measures the gravitational force exerted on an object in a known gravitational field.
+    Teachers will have access to a mobile phone application
+    which can scan the QR associated to a camera or use the one
+    present in their very mobile system to take the snapshot of
+    the classroom/course when they desire to take the
+    attendance. The image will be captured and faces of students
+    will be recognized by the model upon which attendance will
+    be updated in the database. Teachers can later track
+    attendance and export them as .csv or .xls files for future
+    reference.
     
     \chapter{Week 2}
     \justifying
@@ -89,12 +107,31 @@
     15/03/2023 \\[10pt]
     
     \paragraph{}
-    There are several distinct phenomena which can be used to measure mass. Although some theorists have speculated that some of these phenomena could be \textbf{independent of each other}, current experiments have found no difference in results regardless of how it is measured:
+    \section{Proposed the Modules}
+    The different modules included in the projects were proposed.
     
-    - Inertial mass measures an object's resistance to being accelerated by a force (represented by the relationship F = ma).
-    - Active gravitational mass measures the gravitational force exerted by an object.
-    - Passive gravitational mass measures the gravitational force exerted on an object in a known gravitational field.
-    
+	\begin{itemize}
+		
+		\item Face Detection Module: This module detects the faces of individuals in a given image or video stream. It identifies the location of faces within an image and is an essential part of face recognition systems.
+		
+		\item Face Recognition Module: This module recognizes the identity of individuals by comparing the detected face to a database of known faces. It uses machine learning algorithms to identify the person by comparing features of the face such as the distance between the eyes, the shape of the nose, and the contours of the face.
+		
+		\item Database Management Module: This module stores and manages the data of registered users, such as their name, ID number, and face template.
+		
+		\item Attendance Management Module: This module records and tracks attendance for each user. It logs the time and date of each attendance and stores it in a database.
+		
+		\item User Interface Module: This module provides a graphical user interface that allows users to interact with the system. Users can register their faces, view their attendance records, and perform other actions through the interface.
+		
+	\end{itemize}
+
+	\section{Basic human recognition done}
+	In this week, we have tried basic human recognition using OpenCV and an open source trained model \textbf{haarcascade\_frontalface\_default.xml} which worked successfully. \\[12pt]
+	\normalsize
+	\textbf{Basic human recognition Source:} \\
+	\url{https://github.com/gobmj/Attendance.git}
+	\\[6pt]
+	\textbf{Trained data set Source:} \\ \url{https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade\_frontalface\_default.xml}
+   
     %Add Next weeks here!!!
     
 \end{document}
