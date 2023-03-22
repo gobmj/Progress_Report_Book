@@ -18,14 +18,14 @@
     \setlength\columnsep{20pt}
     \setlength{\columnseprule}{1pt}
 	\centering
-    \huge
+    \LARGE
     \thispagestyle{empty}
     \textbf{Progress Report Book} \vfill
     \large
     \textbf{On} \vfill
     \huge
-    \textbf{Automated Attendance System}
-    \LARGE \\[10pt]
+    \textbf{\Large Automated Attendance Management System\\ using\\ Facial Recognition}
+    \Large \\[15pt]
     \textbf{19-202-0611 Mini Project} \vfill
     \vfill
     \large
@@ -71,7 +71,7 @@
     \chapter{Week 1}
     \justifying
     \large
-    08/03/2023 \\[10pt]
+    08/03/2023
     
     
     \pagenumbering{arabic}
@@ -104,7 +104,7 @@
     \chapter{Week 2}
     \justifying
     \large
-    15/03/2023 \\[10pt]
+    15/03/2023
     
     \paragraph{}
     \section{Proposed the Modules}
@@ -133,5 +133,15 @@
 	\textbf{Trained data set Source:} \\ \url{https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade\_frontalface\_default.xml}
    
     %Add Next weeks here!!!
+    \chapter{Week 3}
+    \justifying
+    \large
+    23/03/2023
+    
+    \paragraph{}
+    \section{Detection of presence of face(s)}
+        The presence of face(s) is done primarily with the help of OpenCV, CMake, dlib and face\_recognition libraries available in support with Python.  
+    \section{Identification of person(s)}
+    Identification of person(s) corresponding to the face(s) whose presence has been detected, utilizes the encodings created by face\_recognition library corresponding to each face in the input image data and compares it to the encodings generated during real-time image capture.
     
 \end{document}
