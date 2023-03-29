@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  23 MAR 2023 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  29 MAR 2023 08:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,7 +335,7 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \@outlinefile=\write3
 \openout3 = `progress_report_book_group_8.out'.
 
-<./logo.png, id=39, 160.6pt x 200.75pt>
+<./logo.png, id=55, 160.6pt x 200.75pt>
 File: ./logo.png Graphic file (type png)
 <use ./logo.png>
 Package pdftex.def Info: ./logo.png  used on input line 47.
@@ -402,16 +402,20 @@ Overfull \hbox (11.43771pt too wide) in paragraph at lines 128--134
 Chapter 3.
 [5
 
-] (progress_report_book_group_8.aux)
+] [6
+
+]
+Chapter 4.
+[7] (progress_report_book_group_8.aux)
 Package rerunfilecheck Info: File `progress_report_book_group_8.out' has not ch
 anged.
-(rerunfilecheck)             Checksum: 93920D8A3E8909DFBF7863723EFBBD5F;1301.
+(rerunfilecheck)             Checksum: 088A858FE561DA9F85CBB2E3FDEA51CD;2043.
  ) 
 Here is how much of TeX's memory you used:
- 9202 strings out of 476339
- 144257 string characters out of 5804534
- 1856340 words of memory out of 5000000
- 29502 multiletter control sequences out of 15000+600000
+ 9213 strings out of 476339
+ 144373 string characters out of 5804534
+ 1855340 words of memory out of 5000000
+ 29506 multiletter control sequences out of 15000+600000
  518263 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,76p,488b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -419,9 +423,9 @@ Here is how much of TeX's memory you used:
 1440.pk><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
 17.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on progress_report_book_group_8.pdf (11 pages, 95584 bytes).
+Output written on progress_report_book_group_8.pdf (13 pages, 101618 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 172 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
