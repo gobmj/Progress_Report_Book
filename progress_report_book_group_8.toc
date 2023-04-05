@@ -16,3 +16,8 @@
 \contentsline {section}{\numberline {4.1}Basic interface and environment setup}{7}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Debugging and optimization of code}{7}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Database and Management}{7}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Week 5}{9}{chapter.5}%
+\contentsline {paragraph}{}{9}{paragraph*.8}%
+\contentsline {section}{\numberline {5.1}Backend for facial recognition done}{9}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Storage of data in Firebase}{9}{section.5.2}%
+\contentsline {section}{\numberline {5.3}UI Enhancements}{9}{section.5.3}%

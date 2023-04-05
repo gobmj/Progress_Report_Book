@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  29 MAR 2023 08:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  5 APR 2023 08:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,14 +406,24 @@ Chapter 3.
 
 ]
 Chapter 4.
-[7] (progress_report_book_group_8.aux)
-Package rerunfilecheck Info: File `progress_report_book_group_8.out' has not ch
-anged.
-(rerunfilecheck)             Checksum: 088A858FE561DA9F85CBB2E3FDEA51CD;2043.
+[7] [8
+
+]
+Chapter 5.
+[9] (progress_report_book_group_8.aux)
+
+Package rerunfilecheck Warning: File `progress_report_book_group_8.out' has cha
+nged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `progress_report_book_group_8.out':
+(rerunfilecheck)             Before: 088A858FE561DA9F85CBB2E3FDEA51CD;2043
+(rerunfilecheck)             After:  14B703C07E271D3966CDF07363734433;2697.
  ) 
 Here is how much of TeX's memory you used:
- 9213 strings out of 476339
- 144373 string characters out of 5804534
+ 9220 strings out of 476339
+ 144439 string characters out of 5804534
  1855340 words of memory out of 5000000
  29506 multiletter control sequences out of 15000+600000
  518263 words of font info for 52 fonts, out of 8000000 for 9000
@@ -423,9 +433,9 @@ Here is how much of TeX's memory you used:
 1440.pk><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
 17.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on progress_report_book_group_8.pdf (13 pages, 101618 bytes).
+Output written on progress_report_book_group_8.pdf (15 pages, 104151 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
