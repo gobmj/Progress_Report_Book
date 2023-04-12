@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  5 APR 2023 08:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  12 APR 2023 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,7 +335,7 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \@outlinefile=\write3
 \openout3 = `progress_report_book_group_8.out'.
 
-<./logo.png, id=55, 160.6pt x 200.75pt>
+<./logo.png, id=87, 160.6pt x 200.75pt>
 File: ./logo.png Graphic file (type png)
 <use ./logo.png>
 Package pdftex.def Info: ./logo.png  used on input line 47.
@@ -410,7 +410,16 @@ Chapter 4.
 
 ]
 Chapter 5.
-[9] (progress_report_book_group_8.aux)
+[9] [10
+
+]
+Chapter 6.
+
+Overfull \hbox (17.72218pt too wide) in paragraph at lines 186--186
+|[]\OT1/cmr/bx/n/17.28 Started at-ten-dance man-age-ment mod-ule(Backend)| 
+ []
+
+[11] (progress_report_book_group_8.aux)
 
 Package rerunfilecheck Warning: File `progress_report_book_group_8.out' has cha
 nged.
@@ -418,14 +427,14 @@ nged.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `progress_report_book_group_8.out':
-(rerunfilecheck)             Before: 088A858FE561DA9F85CBB2E3FDEA51CD;2043
-(rerunfilecheck)             After:  14B703C07E271D3966CDF07363734433;2697.
+(rerunfilecheck)             Before: 844A8C2AEC1774B625DBBBC641008AB2;3398
+(rerunfilecheck)             After:  19955548D8D799FE9179D295FDD9B184;3586.
  ) 
 Here is how much of TeX's memory you used:
- 9220 strings out of 476339
- 144439 string characters out of 5804534
- 1855340 words of memory out of 5000000
- 29506 multiletter control sequences out of 15000+600000
+ 9235 strings out of 476339
+ 144607 string characters out of 5804534
+ 1857340 words of memory out of 5000000
+ 29514 multiletter control sequences out of 15000+600000
  518263 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,76p,488b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -433,9 +442,9 @@ Here is how much of TeX's memory you used:
 1440.pk><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
 17.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on progress_report_book_group_8.pdf (15 pages, 104151 bytes).
+Output written on progress_report_book_group_8.pdf (17 pages, 111346 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 174 words of extra memory for PDF output out of 10000 (max. 10000000)
 
