@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  12 APR 2023 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  10 JUL 2023 03:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,7 +335,7 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \@outlinefile=\write3
 \openout3 = `progress_report_book_group_8.out'.
 
-<./logo.png, id=87, 160.6pt x 200.75pt>
+<./logo.png, id=167, 160.6pt x 200.75pt>
 File: ./logo.png Graphic file (type png)
 <use ./logo.png>
 Package pdftex.def Info: ./logo.png  used on input line 47.
@@ -365,13 +365,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
-)
+ [5])
 \tf@toc=\write4
 \openout4 = `progress_report_book_group_8.toc'.
 
- [5] [6
-
-]
+ [6]
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 71--71
@@ -388,7 +386,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--93
 
  []
 
-[1] [2
+[1
+
+] [2
 
 ]
 Chapter 2.
@@ -419,32 +419,55 @@ Overfull \hbox (17.72218pt too wide) in paragraph at lines 186--186
 |[]\OT1/cmr/bx/n/17.28 Started at-ten-dance man-age-ment mod-ule(Backend)| 
  []
 
-[11] (progress_report_book_group_8.aux)
+[11] [12
 
-Package rerunfilecheck Warning: File `progress_report_book_group_8.out' has cha
-nged.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+]
+Chapter 7.
+[13] [14
 
-Package rerunfilecheck Info: Checksums for `progress_report_book_group_8.out':
-(rerunfilecheck)             Before: 844A8C2AEC1774B625DBBBC641008AB2;3398
-(rerunfilecheck)             After:  19955548D8D799FE9179D295FDD9B184;3586.
+]
+Chapter 8.
+
+Overfull \hbox (2.43828pt too wide) in paragraph at lines 209--209
+|[]\OT1/cmr/bx/n/17.28 Class Man-age-ment Mod-ule De-vel-op-ment Started| 
+ []
+
+[15] [16
+
+]
+Chapter 9.
+[17] [18
+
+]
+Chapter 10.
+[19] [20
+
+]
+Chapter 11.
+[21] [22
+
+]
+Chapter 12.
+[23] (progress_report_book_group_8.aux)
+Package rerunfilecheck Info: File `progress_report_book_group_8.out' has not ch
+anged.
+(rerunfilecheck)             Checksum: 0C72CBF5A50D717E7051C1C747E3BE23;7160.
  ) 
 Here is how much of TeX's memory you used:
- 9235 strings out of 476339
- 144607 string characters out of 5804534
- 1857340 words of memory out of 5000000
- 29514 multiletter control sequences out of 15000+600000
+ 9293 strings out of 476339
+ 145243 string characters out of 5804534
+ 1861340 words of memory out of 5000000
+ 29534 multiletter control sequences out of 15000+600000
  518263 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,488b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,76p,488b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\govin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1440.pk><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
 17.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on progress_report_book_group_8.pdf (17 pages, 111346 bytes).
+Output written on progress_report_book_group_8.pdf (29 pages, 135186 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
+ 334 words of extra memory for PDF output out of 10000 (max. 10000000)
 
